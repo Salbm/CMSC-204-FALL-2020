@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="sourcefiles.MorseCodeConverter_GFA_Test" project="assignment 5" 
+    file="/assignment 5/src/sourcefiles/MorseCodeConverter_GFA_Test.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="256" x="731" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="sourcefiles.MorseCodeConverterTest" project="assignment 5" 
+    file="/assignment 5/src/sourcefiles/MorseCodeConverterTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="215" x="476" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="sourcefiles.MorseCodeDriverFX" project="assignment 5" 
+    file="/assignment 5/src/sourcefiles/MorseCodeDriverFX.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="171" x="265" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="sourcefiles.MorseCodeMain" project="assignment 5" 
+    file="/assignment 5/src/sourcefiles/MorseCodeMain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="304" width="184" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
